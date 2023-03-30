@@ -15,7 +15,7 @@ function Navbar (){
                     <Link to='/components/linguagens'>Linguagens e Tecnologias </Link>
                  </li>
                  <li className={styles.item}>
-                    <Link to='/formulario'>Formulario</Link>
+                    <Link to='/components/formulario'>Formulario</Link>
                 </li>
                 {/* <li className={styles.item}>
                     <Link to='/calculadora'>Calculadora</Link>

@@ -6,7 +6,7 @@ import Calculadora from './components/Calculadora';
 import Cursos from './components/Cursos';
 import DiaEHora from './components/DiaEHora';
 import EMEMB from './components/EMEMB';
-import Formulario from './components/Formulario';
+import Formulario from './components/projects/Formulario';
 import Home from './components/Home';
 import Numeros from './components/Numeros';
 import Footer from './pages/Footer';
