@@ -2,13 +2,24 @@
     display: flex;
     flex-direction: column;
     margin-bottom: 1em;
+   
 }
+/* texto em cima  */
 .form_control label{
     margin-bottom: .6em;
     font-weight: bold;
+    /* font-size: 1; */
+    text-align: start;
+    
+  
 }
+/* texto de dentro */
 .form_control select{
     padding: .7em;
     border-radius: 0;
     border: none;
+  
+    
+
+
 }

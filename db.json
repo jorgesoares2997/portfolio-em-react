@@ -1,39 +1,116 @@
 {
   "projects": [
     {
-      "name": "jorginho",
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "projeto teste",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+      "name": "Ingrid ",
+      "sobrenome": "Lima",
+      "idade": "1995-12-19",
+      "telefone": "81 98349-5769",
+      "whatsapp": "81 98349-5769",
+      "endereco": "rua capitão zuzinha - 286",
+      "email": "ingrid.izabella19@gmail.com",
+      "Sex": {
+        "id": "1",
+        "name": "Masculino"
+      },
+      "Course": {
+        "id": "3",
+        "name": "Violão"
+      },
+      "Instrument": {
+        "id": "14",
+        "name": "Não, mas consigo um emprestado"
+      },
+      "Experience": {
+        "id": "16",
+        "name": "Pouca"
       },
       "cost": 0,
       "services": [],
-      "id": 2
+      "id": 1
     }
   ],
-  "categories": [
+  "sexo": [
     {
       "id": 1,
-      "name": "Infra"
+      "name": "Masculino"
     },
     {
       "id": 2,
-      "name": "Desenvolvimento"
-    },
+      "name": "Feminino"
+    }
+  ],
+  "curso": [
     {
       "id": 3,
-      "name": "Design"
+      "name": "Violão"
     },
     {
       "id": 4,
-      "name": "Planejamento"
+      "name": "Teclado"
+    },
+    {
+      "id": 5,
+      "name": "Contrabaixo"
+    },
+    {
+      "id": 6,
+      "name": "Ukulele"
+    },
+    {
+      "id": 7,
+      "name": "Guitarra"
+    },
+    {
+      "id": 8,
+      "name": "Bateria"
+    },
+    {
+      "id": 9,
+      "name": "Canto"
+    },
+    {
+      "id": 10,
+      "name": "Harmonia"
+    },
+    {
+      "id": 11,
+      "name": "Percussão"
+    }
+  ],
+  "inst": [
+    {
+      "id": 12,
+      "name": "Sim"
+    },
+    {
+      "id": 13,
+      "name": "Não"
+    },
+    {
+      "id": 14,
+      "name": "Não, mas consigo um emprestado"
+    }
+  ],
+  "exp": [
+    {
+      "id": 15,
+      "name": "Nenhuma"
+    },
+    {
+      "id": 16,
+      "name": "Pouca"
+    },
+    {
+      "id": 17,
+      "name": "Media"
+    },
+    {
+      "id": 18,
+      "name": "Alta"
+    },
+    {
+      "id": 19,
+      "name": "Fluente"
     }
   ]
 }

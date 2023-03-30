@@ -14,8 +14,11 @@ function Navbar (){
                 <li className={styles.item}>
                     <Link to='/components/linguagens'>Linguagens e Tecnologias </Link>
                  </li>
-                 <li className={styles.item}>
+                 {/* <li className={styles.item}>
                     <Link to='/components/formulario'>Formulario</Link>
+                </li> */}
+                <li className={styles.item}>
+                    <Link to='/components/Inscrição'>Formulario de Inscrição</Link>
                 </li>
                 {/* <li className={styles.item}>
                     <Link to='/calculadora'>Calculadora</Link>

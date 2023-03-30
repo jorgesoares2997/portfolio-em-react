@@ -1,5 +1,48 @@
-.form{
-    width: 100%;
-    margin: 2em 0;
 
+
+.form{
+    
+    margin: 2em 0;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    background-color:#efefef43;
+    border-radius: 18px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.226);
+    padding: 10%;
+    height:65%;
+    
+
+}
+.form Button{
+    border-radius: 12px;
+    width: 10%;
+    height: 30px;
+
+    
+}
+.form h1{
+    font-size: 18px;
+}
+.form input{
+   
+    border: none;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.174);
+    font: 12px bold arial;
+    width: 80%;
+    text-align: start;
+    margin-top: 0.5%;
+    
+
+}
+.form select{
+    border: none;   
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.174);
+    text-align: center;
+    border-radius: 12px;
+    width: 80%;
+    margin-top: 0.2%;
+   
 }
