@@ -1,0 +1,19 @@
+.container{
+    width: 1200px;
+    display: flex;
+    justify-content: space-around ;
+    font-size: 22px;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.min-higth{
+    min-height: 75%;
+}
+.start{
+    justify-content: flex-start;
+}
+.column{
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}

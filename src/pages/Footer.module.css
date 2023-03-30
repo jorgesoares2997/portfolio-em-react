@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,100&display=swap');
+
+html{
+    background-image: linear-gradient(to bottom, #a0b5c8 10%, #b3c1cc 40%,#bdc6ce);
+    height: 140%;
+    width: 100%;
+    font-family: 'arial';
+ }
+ footer{
+    font: normal 16px 'arial';
+    font-style: italic;
+    text-align: center;
+    margin-top: 44px;
+    transition: .4s .1s;
+
+}
+a{
+    text-decoration: underline;
+    color: inherit;
+}
+
+a.foot{
+  
+   transition: .4s .1s;
+   
+}
+a.foot:hover{
+    transition: .4s .1s;
+    padding: 16px;
+    /* height: 12px;
+    width: 35px; */
+}
+.lista{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    
+
+}
+.lista li {
+    margin: 0 1em;
+}
+.lista svg{
+    font-size: 2em;
+    cursor: pointer;
+    
+}
+
+.div{
+    display: flex;
+    justify-content: center;
+}
