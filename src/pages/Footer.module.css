@@ -12,6 +12,7 @@ html{
     text-align: center;
     margin-top: 44px;
     transition: .4s .1s;
+     position:absolute;
 
 }
 a{
