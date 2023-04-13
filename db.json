@@ -27,6 +27,34 @@
       "cost": 0,
       "services": [],
       "id": 1
+    },
+    {
+      "Sex": {
+        "id": "1",
+        "name": "Masculino"
+      },
+      "Course": {
+        "id": "5",
+        "name": "Contrabaixo"
+      },
+      "Instrument": {
+        "id": "12",
+        "name": "Sim"
+      },
+      "Experience": {
+        "id": "19",
+        "name": "Fluente"
+      },
+      "sobrenome": "soares de oliveira filho",
+      "name": "ricardo Jorge ",
+      "idade": "1999-10-19",
+      "telefone": "81987594291",
+      "whatsapp": "81987594291",
+      "endereco": "rua capitão zuzinha - 286",
+      "email": "shaped_gallium_0a@icloud.com",
+      "cost": 0,
+      "services": [],
+      "id": 2
     }
   ],
   "sexo": [
