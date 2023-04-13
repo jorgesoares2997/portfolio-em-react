@@ -7,7 +7,7 @@ import dart from '../fotoseicones/dart.png'
 import flutter from '../fotoseicones/flutter.png'
 import git from '../fotoseicones/git.png'
 import styles from './Linguages.module.css'
-import Bootstrap from '../fotoseicones/Bootstrap-2.png'
+import bootstrap from '../fotoseicones/Bootstrap-2.png'
 function Linguagens(){
     
     return <>
@@ -39,7 +39,7 @@ function Linguagens(){
                                 <li><a href="https://github.com/jorgesoares2997/costs"target='blank' rel="external"><img className={styles.img} src={react}/></a></li>
                             </div>
                             <div className={styles.segundo}>
-                                <li><a href="https://jorgesoares2997.github.io/Portfolio-em-bootstrap/"target='blank' rel="external"><img className={styles.img} src={Bootstrap}/></a></li>
+                                <li><a href="https://jorgesoares2997.github.io/Portfolio-em-bootstrap/"target='blank' rel="external"><img className={styles.img} src={bootstrap}/></a></li>
                             </div>                         
                     </ul>
            
