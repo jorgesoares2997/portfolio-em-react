@@ -4,6 +4,11 @@
     padding: 3em;
 
 }
+@media (max-width:450px) {
+    .newproject_container{
+        height: 120%;
+    }
+}
 .newproject_container h1{
     margin-bottom: 0.5em;
 
